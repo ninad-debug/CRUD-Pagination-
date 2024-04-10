@@ -1,0 +1,106 @@
+{
+  "users": [
+    {
+      "firstName": "jhonny",
+      "lastName": "sandy",
+      "email": "jhon@gmail.com",
+      "password": "123",
+      "id": "1"
+    },
+    {
+      "firstName": "ninad",
+      "lastName": "samant",
+      "email": "ns@gmail.com",
+      "password": "test@123",
+      "confirmPassword": "",
+      "id": "2"
+    },
+    {
+      "firstName": "shirish",
+      "lastName": "Mor",
+      "email": "shirish@gmail.com",
+      "password": "react123",
+      "confirmPassword": "12345",
+      "id": "3"
+    },
+    {
+      "firstName": "darshan",
+      "lastName": "raneee",
+      "email": "dr@gmail.com",
+      "password": "Pass@123",
+      "confirmPassword": "Pass@123",
+      "id": "4"
+    },
+    {
+      "id": "986e",
+      "firstName": "React",
+      "lastName": "Jain",
+      "email": "abc@gmail.com",
+      "password": "12345",
+      "confirmPassword": "12345"
+    },
+    {
+      "id": "8af7",
+      "firstName": "Marvel",
+      "lastName": "IronMan",
+      "email": "Marvel@gmail.com",
+      "password": "Pass@123",
+      "confirmPassword": "Pass@123"
+    },
+    {
+      "id": "117d",
+      "firstName": "Marvel",
+      "lastName": "IronMan",
+      "email": "Marvel@gmail.com",
+      "password": "Pass@123",
+      "confirmPassword": "Pass@123"
+    },
+    {
+      "id": "037c",
+      "firstName": "Marvel",
+      "lastName": "IronMan",
+      "email": "Marvel@gmail.com",
+      "password": "Pas",
+      "confirmPassword": "Pas"
+    },
+    {
+      "id": "2a08",
+      "firstName": "Naman",
+      "lastName": "adnqkdn",
+      "email": "darshanvala@nimapinfotech.com",
+      "password": "Pass@123",
+      "confirmPassword": "Pass@123"
+    },
+    {
+      "id": "9874",
+      "firstName": "React",
+      "lastName": "Jain",
+      "email": "test@gmail.com",
+      "password": "test@123",
+      "confirmPassword": "test@123"
+    },
+    {
+      "id": "2046",
+      "firstName": "ABC",
+      "lastName": "XYZ",
+      "email": "abc@gmail.com",
+      "password": "test@123",
+      "confirmPassword": "test@123"
+    },
+    {
+      "firstName": "Jhonny",
+      "lastName": "Bravo",
+      "email": "jhon@gmail.com",
+      "password": "test@123",
+      "confirmPassword": "test@123",
+      "id": "9632"
+    },
+    {
+      "firstName": "darshan",
+      "lastName": "pandey",
+      "email": "dp@gmail.com",
+      "password": "12345",
+      "id": "7e57"
+    }
+  ]
+}
